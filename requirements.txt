@@ -1,0 +1,8 @@
+requests~=2.31.0
+instaloader~=4.9.6
+pandas~=2.0.3
+phonenumbers~=8.13.15
+telepot~=12.7
+truecallerpy~=0.1.2
+aiogram~=2.25.1
+Flask~=2.3.2
