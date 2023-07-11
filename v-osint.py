@@ -10,8 +10,7 @@ import requests
 import truecallerpy
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import KeyboardButton, ReplyKeyboardMarkup
-from keep_alive import run_script
-run_script()
+
 API = '6393408470:AAGZ0OjRCp81Refx6ZO-tf9_ZUH5xNb-ZAg'
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API)
