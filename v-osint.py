@@ -11,7 +11,7 @@ import truecallerpy
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import KeyboardButton, ReplyKeyboardMarkup
 
-API = '6393408470:AAGZ0OjRCp81Refx6ZO-tf9_ZUH5xNb-ZAg'
+API = '' #Your Telegrma Bot API
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API)
 BOT = instaloader.Instaloader()
